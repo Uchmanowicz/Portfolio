@@ -58,7 +58,7 @@ I am enthusiastic about DIY hardware(electronics, mechanics) and software(embedd
   <tr>
     <td>Android, Windows and Web application for better daily activities management.</td>
     <td>Interactive dynamic LED matrix picture with voice recognition.</td>
-    <td>Mobile interface (hardwarde and software) to any coffee machine for remote coffee orders.</td>
+    <td>Interface (hardware and software) for any coffee machine to remote (mobile) order coffee.</td>
   </tr>
 </table>
 
