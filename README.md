@@ -42,7 +42,7 @@ I am enthusiastic about DIY hardware(electronics, mechanics) and software(embedd
   <tr>
     <th>DavissApp</th>
     <th>LivingPicture</th>
-    <th>CoffeeDispneser</th>
+    <th>CoffeeDispenser</th>
   </tr>
     <tr align="center">
       <td>In Progress</td>
@@ -81,7 +81,7 @@ I am enthusiastic about DIY hardware(electronics, mechanics) and software(embedd
     <td></td>
   </tr>
   <tr>
-    <td>Master thesis. Machine for multitask as Milling Machine, Lathe, 3D Printer, PCB Maker.</td>
+    <td>Machine for multitask as Milling Machine, Lathe, 3D Printer, PCB Maker - 3/4-axis.</td>
     <td></td>
     <td></td>
   </tr>
