@@ -15,7 +15,6 @@ I am enthusiastic about DIY hardware(electronics, mechanics) and software(embedd
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=Qt&logo=qt&labelColor=41CD52" height =25>
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=SQLite&logo=sqlite&labelColor=003B57" height =25> 
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=MySQL&logo=mysql&labelColor=4479A1" height =25> 
-  <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=Android&logo=android&labelColor=3DDC84" height =25>
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=CMake&logo=cmake&labelColor=064F8C" height =25> 
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=Git&logo=git&labelColor=F05032" height =25> 
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=GitHub&logo=github&labelColor=181717" height =25> 
@@ -25,7 +24,8 @@ I am enthusiastic about DIY hardware(electronics, mechanics) and software(embedd
  
 <p align="center">
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=Visual%20Studio&logo=visual%20studio&labelColor=5C2D91" height =25> 
-   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=PHP&logo=php&labelColor=777BB4" height =25>
+  <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=Android&logo=android&labelColor=3DDC84" height =25>
+  <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=PHP&logo=php&labelColor=777BB4" height =25>
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=HTML&logo=html5&labelColor=E34F26" height =25> 
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=Arduino&logo=Arduino&labelColor=00979D" height =25> 
   <img src = "https://img.shields.io/static/v1?label=%20&&color=black&logoColor=white&message=Jira&logo=jira&labelColor=0052CC" height =25> 
