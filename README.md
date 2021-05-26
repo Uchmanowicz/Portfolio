@@ -49,12 +49,13 @@ I am enthusiastic about DIY hardware(electronics, mechanics) and software(embedd
       <td>In Progress</td>
       <td>Planned</td>
       <td>Planned</td>
-  </tr>
+  </tr> 
+
   <tr align="center">
     <td><a href="https://github.com/Uchmanowicz/DavissApp">
-      <img src="https://github.com/Uchmanowicz/DavissApp/blob/master/docs/images/ss_menuView.JPG" width = 400 /></a></td>
-    <td>Available soon</td>
-    <td>Available soon</td>
+      <img src="https://github.com/Uchmanowicz/DavissApp/blob/master/docs/images/ss_menuView.JPG" width = 200 /></a></td>
+    <td><img src="./docs/imageInProgress.png" width = 70 /></td>
+    <td><img src="./docs/imageInProgress.png" width = 70 /></td>
   </tr>
   <tr>
     <td>Android, Windows and Web application for better daily activities management (depot system, goods recognition, sensor's data presenter etc).</td>
