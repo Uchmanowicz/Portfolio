@@ -74,7 +74,7 @@ I am enthusiastic about DIY hardware(electronics, mechanics) and software(embedd
   </tr>
   <tr align="center">
     <td><a href="https://github.com/Uchmanowicz/CNC_Machine">
-      <img src="https://github.com/Uchmanowicz/CNC_Machine/blob/main/CNCMachine.jpg" width = 200 /></a></td>
+      <img src="https://github.com/Uchmanowicz/CNC_Machine/blob/master/CNCMachine.jpg" width = 200 /></a></td>
   </tr>
   <tr>
     <td>Machine for multitask as Milling Machine, Lathe, 3D Printer, PCB Maker - 3/4 axis. Source code includes TFT screen interface for remote operations.</td>
